@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:50:43.649Z",
+  "slug": "wilsonprint",
+  "name": "Wilson Print",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Printers & copy shops",
+    "niche": "printers & copy shops",
+    "group": "Other services"
+  },
+  "contact": {
+    "phone": "+6433137208",
+    "email": "andrea@wilsonprint.co.nz",
+    "address": "341c Flaxton Rd, Rangiora",
+    "hours": [
+      "Monday - Friday 8 am - 4 pm"
+    ]
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/482596511817199"
+  },
+  "about": {
+    "overview": "Wilson Print North Canterbury printing company offering digital and offset printing solutions and graphic design",
+    "tagline": "Wilson Print",
+    "services": [
+      "341c Flaxton R oad , Southbrook, Rangiora"
+    ]
+  },
+  "before": {
+    "url": "http://www.wilsonprint.co.nz",
+    "domain": "wilsonprint.co.nz",
+    "finalUrl": "https://www.wilsonprint.co.nz/",
+    "title": "Wilson Print - Home",
+    "pages": 6,
+    "score": 66,
+    "assessedAt": "2026-11-11T10:10:32.236Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "legacy-markup",
+        "title": "Built with legacy page techniques",
+        "evidence": "7 deprecated tags and 4 layout tables found (modern sites use responsive CSS)."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/wilson-print/",
+    "repoUrl": "https://github.com/tova-studio/wilson-print",
+    "generator": "claude",
+    "accent": "#6cb83a",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:50:43.649Z"
+  }
+}
